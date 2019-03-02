@@ -20,11 +20,11 @@
 </p>
 
 <h1>
-Server is running at localhost:8080/api/meals by default.
+Server is run at localhost:8080 by default.
 </h1>
 
 <h2>
-After compilation it is available by:
+API endpoints:
 </h2>
 
 <ul><li>
