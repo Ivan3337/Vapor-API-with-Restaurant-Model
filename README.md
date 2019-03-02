@@ -19,11 +19,20 @@
     </a>
 </p>
 
+<h1>
 Server is running at localhost:8080/api/meals by default.
+</h1>
 
+<h2>
 After compilation it is available by:
+</h2>
 
+<ul><li>
 GET /api/meals — get all meals
-GET /api/meals/{id> - get a meal by id
-DELETE /api/meals/{id} - delete a meal by id
-POST /api/meals - create new meal, get an id
+</li><li>
+GET /api/meals/{id} — get a meal by id
+</li><li>
+DELETE /api/meals/{id} — delete a meal by id
+</li><li>
+POST /api/meals — create new meal, get an id
+</li></ul>
