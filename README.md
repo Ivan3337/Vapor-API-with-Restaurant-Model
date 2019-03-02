@@ -18,3 +18,12 @@
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
 </p>
+
+Server is running at localhost:8080/api/meals by default.
+
+After compilation it is available by:
+
+GET /api/meals — get all meals
+GET /api/meals/{id> - get a meal by id
+DELETE /api/meals/{id} - delete a meal by id
+POST /api/meals - create new meal, get an id
